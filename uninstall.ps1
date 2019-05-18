@@ -29,3 +29,5 @@ Get-AppxPackage Microsoft.Office.Desktop | Remove-AppxPackage
 Get-AppxPackage B9ECED6F.ASUSGIFTBOX | Remove-AppxPackage
 
 Get-AppxPackage PricelinePartnerNetwork.Priceline.comTheBestDealso | Remove-AppxPackage
+
+Get-AppxPackage Amazon.com.Amazon | Remove-AppxPackage
